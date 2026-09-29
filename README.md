@@ -1,6 +1,6 @@
 # Work Folders, AD CS et sauvegarde/restauration Active Directory
 
-Laboratoire Windows Server réalisé dans le cadre de mon programme en réseautique et cybersécurité (TP3).
+Laboratoire Windows Server réalisé dans le cadre de mon programme en réseautique et cybersécurité.
 
 Objectif : offrir aux utilisateurs mobiles une synchronisation de fichiers sécurisée en HTTPS avec **Work Folders**, à l'aide d'un certificat émis par ma propre autorité de certification (**AD CS**), puis sauvegarder Active Directory et **restaurer un objet supprimé** par une restauration *authoritative*.
 
